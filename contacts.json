@@ -6,5 +6,13 @@
     "phone": "11111111",
     "email": "mario@nintendo.com",
     "id": "acf45fb9"
+  },
+  {
+    "phone": "111-222-3333",
+    "fname": "Bruce",
+    "email": "bruce@gmail.com",
+    "lname": "Wayne",
+    "company": "Wayne inc",
+    "id": "0a7e98da"
   }
 ]
